@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "БСК", "БСК\БСК.csproj", "{2CC8B13B-459C-441C-A1A2-F860EA5B322B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{ACCC6906-4372-46E2-B3F1-9DD19B3DE39C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CC8B13B-459C-441C-A1A2-F860EA5B322B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC8B13B-459C-441C-A1A2-F860EA5B322B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC8B13B-459C-441C-A1A2-F860EA5B322B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC8B13B-459C-441C-A1A2-F860EA5B322B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACCC6906-4372-46E2-B3F1-9DD19B3DE39C}.Debug|Any CPU.ActiveCfg = Release
+		{ACCC6906-4372-46E2-B3F1-9DD19B3DE39C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CA1B35B-EC49-4DBF-9DC1-869F6FC90D21}
+	EndGlobalSection
+EndGlobal
